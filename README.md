@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farukkurtic)
 
-I'm Faruk Kurtić, a dedicated Software Engineering student based in Sarajevo, Bosnia and Herzegovina. I'm passionate about full-stack web development, and my primary focus is on the MERN (MongoDB, Express.js, React, Node.js) stack. I love tackling challenging problems and creating user-centric web applications.
+I'm Faruk, a dedicated Software Engineering student based in Sarajevo, Bosnia and Herzegovina. I'm passionate about full-stack web development, and my primary focus is on the MERN (MongoDB, Express.js, React, Node.js) stack. I love tackling challenging problems and creating user-centric web applications.
 
 ## 🌱 What I'm Currently Working On
 
